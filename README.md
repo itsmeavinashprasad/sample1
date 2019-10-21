@@ -1,2 +1,1 @@
-# sample1
-new repo
+my new file contents
